@@ -40,4 +40,3 @@
         $("#div_form").load("./pages/form.html");
 
     });//jQuery Handle
-
